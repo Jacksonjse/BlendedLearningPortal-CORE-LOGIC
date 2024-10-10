@@ -1,4 +1,4 @@
-package JavaSwing_1;
+//package JavaSwing_1;
 import javax.swing.*;
 
 public class JFrame_2 {
